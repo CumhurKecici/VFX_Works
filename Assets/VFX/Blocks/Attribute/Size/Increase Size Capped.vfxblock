@@ -102,14 +102,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   groupInfos: []
   stickyNoteInfos: []
-  categories:
-  - name: Explosion Wave Settings
-    collapsed: 0
+  categories: []
   uiBounds:
     serializedVersion: 2
-    x: 509
+    x: 366
     y: -478
-    width: 748
+    width: 891
     height: 273
 --- !u!114 &4
 MonoBehaviour:
@@ -306,7 +304,7 @@ MonoBehaviour:
     linkedSlots:
     - outputSlot: {fileID: 18}
       inputSlot: {fileID: 21}
-    position: {x: 535, y: -379}
+    position: {x: 377, y: -354}
     expandedSlots: []
     expanded: 1
     supecollapsed: 1
@@ -360,7 +358,7 @@ MonoBehaviour:
   m_UIIgnoredErrors: []
   m_Parent: {fileID: 2}
   m_Children: []
-  m_UIPosition: {x: 700, y: -388}
+  m_UIPosition: {x: 542, y: -363}
   m_UICollapsed: 0
   m_UISuperCollapsed: 1
   m_InputSlots:
@@ -492,7 +490,7 @@ MonoBehaviour:
   m_UIIgnoredErrors: []
   m_Parent: {fileID: 2}
   m_Children: []
-  m_UIPosition: {x: 524, y: -403}
+  m_UIPosition: {x: 366, y: -378}
   m_UICollapsed: 0
   m_UISuperCollapsed: 1
   m_InputSlots: []

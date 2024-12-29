@@ -27,5 +27,7 @@ public class Tester : MonoBehaviour
             }
         }
 
+        m_visualEffect.transform.position = transform.position + Vector3.up * 2;
+
     }
 }
